@@ -2,7 +2,7 @@
 	"name": "expense-tracker-gql",
 	"version": "1.0.0",
 	"description": "",
-	"main": "index.js",
+	"main": "backend/index.js",
 	"scripts": {
 		"start": "NODE_ENV=production node backend/index.js",
 		"dev": "NODE_ENV=development nodemon backend/index.js",
